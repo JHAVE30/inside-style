@@ -369,6 +369,7 @@ margin-top: 4rem;
 }
 .catalogSection_card--content{
   padding: 1rem;
+  /* testing */
 }
 .catalogSection_card--content h3{
   color: var(--clr-secondary) ;
